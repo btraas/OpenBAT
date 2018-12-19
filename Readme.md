@@ -6,17 +6,17 @@ Version 1.0
 
 OpenBAT is an open-source project intented to revive and extend the discontinued BAT mod for CIV IV BTS. So far, no C++ development has been done, and only includes non-compiled assets. For now, this project will serve as the (non-DLL) base for other mods.
 
-**Timeline, and what's BAT, BUG, BULL, and OpenBAT?
+**Timeline, and what's BAT, BUG, BULL, and OpenBAT?**
 
-**BUG:
+**BUG**
 
 BTS Unaltered Gameplay: The BUG Mod makes many interface improvements, but will not alter any unit, terrain, or city graphics. With a few exceptions, The BUG Mod is customizable, and features can be disabled or altered from within the game by just pressing Alt + Ctrl + O..  This will allow you to customize BUG to fit your style!
 
-**BULL:
+**BULL**
 
 An optional DLL file for BUG that "allows" for more options that couldn't be modded in via XML/Python
 
-**BAT:
+**BAT**
 
 "The BAT Mod makes the game look as it should have when you first purchased it.  We have combined many graphical changes into one mod, striving to give each Civilization its own look and feel."
 
@@ -29,7 +29,7 @@ Now: (Dec. 2018)
 
 BAT has become a staple mod for vetran players, combining some of the greatest mods for BTS. However, it's not open-source, so extending it for / combining with gameplay/DLL mods is simply not ideal.
 
-**OpenBAT
+**OpenBAT**
 
 An open-source base for other mods to extend and include many of the great features of BAT.
 
@@ -38,14 +38,14 @@ An open-source base for other mods to extend and include many of the great featu
 
 
 
-**OpenBAT includes:
+**OpenBAT includes:**
 
 - BlueMarble terrain mod
 - Varietas Delectat 9.2 (Cheetah Edition) by Avain
 - Better Flags & Buttons by KingKongTR
 - BUG Mod 4.4
 
-**Imported from BAT 4.1 (Classic) but untested:
+**Imported from BAT 4.1 (Classic) but untested:**
 
 - Cultural Diversity 1.1 by Chugginator (Optimized by Avain.)
 •Cultural Citystyles 0.99 by GeoModder (Optimized by Avain.)
@@ -69,7 +69,7 @@ An open-source base for other mods to extend and include many of the great featu
 •Messages Mod from The_J. Displays messages when wonders are captured or destroyed.
 
 
-*To be added:* 
+**To be added:**
 
 - BUG DLL (BULL) 
 
