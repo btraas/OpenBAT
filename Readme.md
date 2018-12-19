@@ -48,25 +48,25 @@ An open-source base for other mods to extend and include many of the great featu
 **Imported from BAT 4.1 (Classic) but untested:**
 
 - Cultural Diversity 1.1 by Chugginator (Optimized by Avain.)
-•Cultural Citystyles 0.99 by GeoModder (Optimized by Avain.)
-•Actual Quotes - Better Diplomacy Text by Willowmound
-•Better Flags & Buttons by KingKongTR
-•Improved Graphics Leaderheads by Chuginator
-•Advanced Combat Odds by Piece of Mind
-•Events with Images Mod by asioasioasio, Renegade Chicken and EmperorFool.  Images by Arian.
-•Female Unit Graphics (Great People, CEO's and Missionaries) by SaibotLieh.  Code by Lemon and EF.
-•Lemon's Movie Mod by Lemon Merchant, with slices, dices, and interpolations of music from Cybrxkhan's Diplomacy Music Packs.  Used with his gracious permission.
+- Cultural Citystyles 0.99 by GeoModder (Optimized by Avain.)
+- Actual Quotes - Better Diplomacy Text by Willowmound
+- Better Flags & Buttons by KingKongTR
+- Improved Graphics Leaderheads by Chuginator
+- Advanced Combat Odds by Piece of Mind
+- Events with Images Mod by asioasioasio, Renegade Chicken and EmperorFool.  Images by Arian.
+- Female Unit Graphics (Great People, CEO's and Missionaries) by SaibotLieh.  Code by Lemon and EF.
+- Lemon's Movie Mod by Lemon Merchant, with slices, dices, and interpolations of music from Cybrxkhan's Diplomacy Music Packs.  Used with his gracious permission.
 	A note about the movie mod:
 	These are little movies for the Shrines and National Wonders.  The available ones for download were very good, but so darn long, and I felt that they broke the flow of the game.  I created new ones with an individual length of 15 seconds each, with new music, so that they would be a little less obtrusive.  The music has also had the volume leveled out so that it's closer to the volume levels in the game.
 
 
-•OrionVeteran and Roamty's Great Person Mod (Bare Bones).  The pictures pack will be a separately available download.
-•Era Movies by Lemon Merchant.
-•Lemon's Spy Mod by Lemon Merchant.  A selectable option to have spies return to the nearest city, rather than the capital.  NOTE THAT THIS DOES ALTER GAMEPLAY.  THAT'S WHY IT'S AN OPTION!!
-•Peakblend mountain textures, icepack textures, and new crops by Kissa
-•Water Mod 2.0 by Nitram15, with blue water textures.  With files from cool3a2.
-•New aspect ratio load screens by Lemon Merchant.  The load screens now render better on widescreen monitors. (I can't do anything about the Baba Yetu screen,  unfortunately).
-•Messages Mod from The_J. Displays messages when wonders are captured or destroyed.
+- OrionVeteran and Roamty's Great Person Mod (Bare Bones).  The pictures pack will be a separately available download.
+- Era Movies by Lemon Merchant.
+- Lemon's Spy Mod by Lemon Merchant.  A selectable option to have spies return to the nearest city, rather than the capital.  NOTE THAT THIS DOES ALTER GAMEPLAY.  THAT'S WHY IT'S AN OPTION!!
+- Peakblend mountain textures, icepack textures, and new crops by Kissa
+- Water Mod 2.0 by Nitram15, with blue water textures.  With files from cool3a2.
+- New aspect ratio load screens by Lemon Merchant.  The load screens now render better on widescreen monitors. (I can't do anything about the Baba Yetu screen,  unfortunately).
+- Messages Mod from The_J. Displays messages when wonders are captured or destroyed.
 
 
 **To be added:**
