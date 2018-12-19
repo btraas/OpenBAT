@@ -19,13 +19,12 @@ An optional DLL file for BUG that "allows" for more options that couldn't be mod
 BAT includes BUG and BULL, and a bunch of other texture and interface mods (see below). Most notably, BAT includes Blue Marble (NASA-based terrain textures), and Varietas Delectat (unique unit sets for civilizations).
 Source code was lost in 2018, and discontinued with 4.1 as the last release.
 
-==================
-*Now: (Dec. 2018)*
+Now: (Dec. 2018)
 ==================
 
 BAT has become a staple mod for vetran players, combining some of the greatest mods for BTS. However, it's not open-source, so extending it for / combining with gameplay/DLL mods is simply not ideal.
 
-*OpenBAT:*
+**OpenBAT:**
 An open-source base for other mods to extend and include many of the great features of BAT.
 
 
@@ -33,16 +32,16 @@ An open-source base for other mods to extend and include many of the great featu
 
 
 
-*OpenBAT includes:*
+**OpenBAT includes:
 
 - BlueMarble terrain mod
 - Varietas Delectat 9.2 (Cheetah Edition) by Avain
 - Better Flags & Buttons by KingKongTR
 - BUG Mod 4.4
 
-*Imported from BAT 4.1 (Classic) but untested:*
+**Imported from BAT 4.1 (Classic) but untested:
 
-•Cultural Diversity 1.1 by Chugginator (Optimized by Avain.)
+- Cultural Diversity 1.1 by Chugginator (Optimized by Avain.)
 •Cultural Citystyles 0.99 by GeoModder (Optimized by Avain.)
 •Actual Quotes - Better Diplomacy Text by Willowmound
 •Better Flags & Buttons by KingKongTR
