@@ -17,7 +17,7 @@ An optional DLL file for BUG that "allows" for more options that couldn't be mod
 *BAT:*
 "The BAT Mod makes the game look as it should have when you first purchased it.  We have combined many graphical changes into one mod, striving to give each Civilization its own look and feel."
 BAT includes BUG and BULL, and a bunch of other texture and interface mods (see below). Most notably, BAT includes Blue Marble (NASA-based terrain textures), and Varietas Delectat (unique unit sets for civilizations).
-Source code was lost in 2018, and discontinued with 4.4 as the last release.
+Source code was lost in 2018, and discontinued with 4.1 as the last release.
 
 ==================
 *Now: (Dec. 2018)*
