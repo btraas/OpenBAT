@@ -1,7 +1,7 @@
 README for OpenBAT
 ==================
 
-Version 1.0
+Version 0.1
 
 
 OpenBAT is an open-source project intented to revive and extend the discontinued BAT mod for CIV IV BTS. So far, no C++ development has been done, and only includes non-compiled assets. For now, this project will serve as the (non-DLL) base for other mods.
